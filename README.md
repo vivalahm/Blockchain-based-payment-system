@@ -36,6 +36,8 @@ Ether-Market은 블록체인 네트워크망에서 거래가 이루어지는 온
 ![3](https://user-images.githubusercontent.com/48741014/76334949-27c82280-6337-11ea-8839-771c2d1977cc.PNG)
 
 ## [프로그램 작동 동영상]
+[![Video Label](http://img.youtube.com/vi/L2cY9fkPaJU/0.jpg)](https://www.youtube.com/watch?v=L2cY9fkPaJU) Video Label
+
 
 https://www.youtube.com/watch?v=L2cY9fkPaJU
 
