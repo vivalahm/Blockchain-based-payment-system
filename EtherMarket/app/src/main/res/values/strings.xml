@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EtherMarket</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="unlock_wallet">잠금 해제</string>
+    <string name="scan_qr">QR 코드 스캔</string>
+    <string name="balances_text">ETH 잔액</string>
+    <string name="eth">ETH: </string>
+    <string name="send_text">ETH 전송</string>
+    <string name="copy_address_text">Copy Address</string>
+    <string name="enter_address_text">Enter Address</string>
+    <string name="tx_hash">Tx Hash</string>
+</resources>
